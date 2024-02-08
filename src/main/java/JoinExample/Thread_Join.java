@@ -20,7 +20,7 @@ public class Thread_Join {
             }
 
                 Thread.sleep(timeout);
-                System.out.println("Thread sterttttt " + nameT);
+                System.out.println("Thread hello " + nameT);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
