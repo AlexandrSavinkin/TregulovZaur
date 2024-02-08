@@ -40,7 +40,7 @@ public class Car {
         Car.Engine engine = new Car.Engine(300);
         System.out.println(engine);
 
-        Car car = new Car("yellow", 5, engine);
+        Car car = new Car("yedrfbhl;mger54kjtpo'5klm hlnb fx'ln,g;'ngllow", 5, engine);
         System.out.println(car);
 
     }
