@@ -27,7 +27,7 @@ public class Car {
 
         @Override
         public String toString() {
-            return " My Engine have a " +
+            return " My motor have a " +
                    "hoursPower = " + hoursPower;
 
         }

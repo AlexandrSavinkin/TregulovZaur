@@ -1,0 +1,10 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(‘ÀÔ‚
+T
+java:S1854"9Remove this useless assignment to local variable "count".(¼÷”ƒýÿÿÿÿ
+<
+java:S3864"!Remove this use of "Stream.peek".(¼÷”ƒýÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(¼÷”ƒýÿÿÿÿ
+E
+java:S1481"*Remove this unused "count" local variable.(¼÷”ƒýÿÿÿÿ
+V	java:S125	"<This block of commented-out lines of code should be removed.(‚ôØÀùÿÿÿÿ

@@ -1,0 +1,10 @@
+
+G
+java:S1602	",Remove useless curly braces around statement(î˜µüÿÿÿÿ
+E	java:S106
+"+Replace this use of System.out by a logger.(¼¬œıÿÿÿÿÿ
+y
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ÿÑ¨çıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(îÃÅ©
+@	java:S106"+Replace this use of System.out by a logger.(¥ş¼
+@	java:S106"+Replace this use of System.out by a logger.(ÙĞè•

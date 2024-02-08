@@ -1,0 +1,24 @@
+
+`	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+`	java:S112+"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ïœ˜ªûÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Y
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(öÍËè
+@	java:S106"+Replace this use of System.out by a logger.(Ä¾ìÆ
+@	java:S106"+Replace this use of System.out by a logger.(ŸÁÉ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Y
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¬Æ„°
+E	java:S106""+Replace this use of System.out by a logger.(°Ñ·´ûÿÿÿÿ
+@	java:S106'"+Replace this use of System.out by a logger.(ûÆ¡ù
+t
+java:S2142*"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+Y
+java:S2276)"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(Í“¢œ
+@	java:S106-"+Replace this use of System.out by a logger.(Åç²´
+]
+java:S2094G"BRemove this empty class, write its code or make it an "interface".(ğ™Ãßıÿÿÿÿ

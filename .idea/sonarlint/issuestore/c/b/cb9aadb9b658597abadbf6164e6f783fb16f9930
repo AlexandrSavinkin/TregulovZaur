@@ -1,0 +1,8 @@
+
+w
+java:S1192$"aDefine a constant instead of duplicating this literal "--------------------------------" 3 times.(Ú‘«Õ
+@	java:S106"+Replace this use of System.out by a logger.(ÑùÌÌ
+@	java:S106$"+Replace this use of System.out by a logger.(Ú‘«Õ
+@	java:S106&"+Replace this use of System.out by a logger.(Ú‘«Õ
+@	java:S106("+Replace this use of System.out by a logger.(Ú‘«Õ
+V	java:S125-"<This block of commented-out lines of code should be removed.(û¸ãΩ¸ˇˇˇˇ

@@ -1,0 +1,10 @@
+
+E	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+E	java:S106"+Replace this use of System.out by a logger.(¡¹—Òøÿÿÿÿ
+t
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+E	java:S106-"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ
+F
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ

@@ -1,0 +1,10 @@
+
+E	java:S106"+Replace this use of System.out by a logger.(ßöëÝýÿÿÿÿ
+P
+java:S1161":Add the "@Override" annotation above this method signature(“–ýþ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+E	java:S106"+Replace this use of System.out by a logger.(ÍÐ·åýÿÿÿÿ
+t
+java:S2142!"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+E	java:S106$"+Replace this use of System.out by a logger.(ÍÐ·åýÿÿÿÿ

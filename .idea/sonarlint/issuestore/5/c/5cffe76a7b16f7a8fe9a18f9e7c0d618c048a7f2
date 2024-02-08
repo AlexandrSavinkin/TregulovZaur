@@ -1,0 +1,9 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ü­4
+h
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(ª™¨¹
+E	java:S106"+Replace this use of System.out by a logger.(Ô¬Äıÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(‚¨Ö§
+@	java:S106 "+Replace this use of System.out by a logger.(Å¶áç
+E	java:S106#"+Replace this use of System.out by a logger.(¾ùôŒùÿÿÿÿ
+@	java:S106&"+Replace this use of System.out by a logger.(ıÛÎê

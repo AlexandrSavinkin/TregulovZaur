@@ -11,4 +11,4 @@ t
 java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
 E	java:S106"+Replace this use of System.out by a logger.(¦ñ½¯ûÿÿÿÿ
 7	java:S131""Add a default case to this switch.(øÆÁô
-@	java:S106"+Replace this use of System.out by a logger.(ÏŽÞú
+E	java:S106"+Replace this use of System.out by a logger.(¯®œÑüÿÿÿÿ

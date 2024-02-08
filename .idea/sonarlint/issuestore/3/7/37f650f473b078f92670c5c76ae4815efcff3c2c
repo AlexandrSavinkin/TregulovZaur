@@ -1,0 +1,9 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ü­4
+f
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(¨°Ëç
+k
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ŒÞû÷ýÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(Å¶áç
+E	java:S106"+Replace this use of System.out by a logger.(¾ùôŒùÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(­­Åé

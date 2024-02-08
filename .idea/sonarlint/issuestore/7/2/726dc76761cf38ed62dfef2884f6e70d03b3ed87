@@ -1,0 +1,7 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ü­4
+E	java:S106"+Replace this use of System.out by a logger.(òªÚøþÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(Ôä‡Šÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áþÿÿÿÿ
+_
+java:S1612"DReplace this lambda with method reference 'Persons::getNationality'.(Ï÷™ðþÿÿÿÿ
