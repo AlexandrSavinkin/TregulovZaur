@@ -3,7 +3,7 @@ package JoinExample;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Starting main thread");
-        Thread_Join.JoinThread joinThread1 = new Thread_Join.JoinThread("First");
+        Thread_Join.JoinThread joinThread1 = new Thread_Join.JoinThread("First1");
         Thread_Join.JoinThread joinThread2 = new Thread_Join.JoinThread("Second");
         joinThread1.start();
         joinThread2.start();
