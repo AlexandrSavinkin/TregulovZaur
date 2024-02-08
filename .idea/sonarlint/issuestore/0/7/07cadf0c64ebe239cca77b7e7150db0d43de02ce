@@ -1,0 +1,11 @@
+
+`	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(ÿ°¨òıÿÿÿÿ
+f
+java:S2147"DCombine this catch with the one at line 19, which has the same body.(åşŒóùÿÿÿÿ8ù’ŞÕ¹1
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+E	java:S106"+Replace this use of System.out by a logger.(ÀøØúùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ù½ª‡üÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(±×Ñÿÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ÀøØúùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(é£Îˆşÿÿÿÿ
