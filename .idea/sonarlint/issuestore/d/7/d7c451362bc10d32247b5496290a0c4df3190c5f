@@ -1,0 +1,19 @@
+
+>
+java:S1604	"(Make this anonymous inner class a lambda(¼×¨™
+C
+java:S1604"(Make this anonymous inner class a lambda(ôâ…Æşÿÿÿÿ
+=
+java:S1604"(Make this anonymous inner class a lambda(»›p
+t
+java:S2142-"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+@	java:S106*"+Replace this use of System.out by a logger.(ñÖ’ù
+@	java:S106,"+Replace this use of System.out by a logger.(’¹µî
+t
+java:S2142:"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+E	java:S1067"+Replace this use of System.out by a logger.(óñ¨´ıÿÿÿÿ
+E	java:S1069"+Replace this use of System.out by a logger.(¼ìóüÿÿÿÿ
+t
+java:S2142G"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+?	java:S106D"+Replace this use of System.out by a logger.(•ç
+E	java:S106F"+Replace this use of System.out by a logger.(ÖÄÚ‰ûÿÿÿÿ

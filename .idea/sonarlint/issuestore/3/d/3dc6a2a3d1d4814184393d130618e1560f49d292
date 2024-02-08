@@ -1,0 +1,20 @@
+
+m
+java:S1192"WDefine a constant instead of duplicating this literal "++++++++++++++++++++++" 5 times.(â”Ê÷
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ü­4
+m
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(é›„îúÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(â”Ê÷
+E	java:S106"+Replace this use of System.out by a logger.(‡îÁÂùÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(â”Ê÷
+@	java:S106"+Replace this use of System.out by a logger.(‘¨»‘
+@	java:S106"+Replace this use of System.out by a logger.(â”Ê÷
+E	java:S106"+Replace this use of System.out by a logger.(ƒìîüýÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(â”Ê÷
+@	java:S106("+Replace this use of System.out by a logger.(ç’¤™
+@	java:S106)"+Replace this use of System.out by a logger.(â”Ê÷
+h
+java:S6204,"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(É­Ç½
+@	java:S106-"+Replace this use of System.out by a logger.(§žÞº
+E	java:S106."+Replace this use of System.out by a logger.(‚êÙýüÿÿÿÿ

@@ -1,0 +1,11 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¸ü­4
+e
+java:S3655*"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ê”¤m
+P	java:S125"<This block of commented-out lines of code should be removed.(†ðØ
+V	java:S125$"<This block of commented-out lines of code should be removed.(ÃÜ» úÿÿÿÿ
+@	java:S1062"+Replace this use of System.out by a logger.(£ÃÁÙ
+E
+java:S1128"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ
+S
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ
